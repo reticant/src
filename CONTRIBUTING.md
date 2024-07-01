@@ -1,4 +1,4 @@
-Contributing to OPNsense
+Contributing to Reticent
 ========================
 
 Thanks for considering a pull request or issue report.  Below are a
@@ -14,8 +14,8 @@ than creating a new one as there may be workarounds or ideas available.
 
 When creating bug reports, please make sure you provide the following:
 
-* The current OPNsense version where the bug first appeared
-* The last OPNsense version where the bug did not exist
+* The current Reticent version where the bug first appeared
+* The last Reticent version where the bug did not exist
 * The exact URL of the GUI page involved (if any)
 * A list of steps to replicate the bug
 
@@ -38,12 +38,12 @@ The issue catetories are as follows:
 Feature requests that are in line with project goals will eventually
 be added to our roadmap:
 
-https://opnsense.org/about/road-map/
+https://reticen8.com/about/road-map/
 
-Feature requests beyond the scope of OPNsense may still be provided
+Feature requests beyond the scope of Reticent may still be provided
 using the plugin framework:
 
-https://github.com/opnsense/plugins/issues
+https://github.com/reticant/plugins/issues
 
 Stale issues are timed out after 180 days inactivity.  Please
 note that this includes non-support issues such as feature requests
@@ -60,7 +60,7 @@ Pull requests
 -------------
 
 Since this is a "downstream" FreeBSD repository, most pull requests should
-be directed elsewhere unless specific for OPNsense.
+be directed elsewhere unless specific for Reticent.
 
 When creating pull request, please heed the following:
 
